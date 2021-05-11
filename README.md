@@ -1,4 +1,4 @@
-# Hi Buddy :surfer:
+# Sup :surfer:
 
 ![enter image description here](https://raw.githubusercontent.com/GuiiHenriq/guiihenriq/main/bg.jpg)
 
