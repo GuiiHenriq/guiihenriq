@@ -1,4 +1,4 @@
-# Sup :surfer:
+# Sup :octocat:
 
 ![enter image description here](https://raw.githubusercontent.com/GuiiHenriq/guiihenriq/main/bg.jpg)
 
