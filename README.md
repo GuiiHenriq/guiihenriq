@@ -1,6 +1,6 @@
 # Sup :octocat:
 
-![enter image description here](https://raw.githubusercontent.com/GuiiHenriq/guiihenriq/main/bg.jpg)
+![enter image description here](https://raw.githubusercontent.com/GuiiHenriq/guiihenriq/refs/heads/main/1746367302740.jpg)
 
 - :rocket: **Studying**: NextJS, NodeJS and Golang
 - :computer: **Working**: React, Typescript, NodeJS, AEM
